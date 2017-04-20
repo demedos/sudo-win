@@ -14,7 +14,7 @@ c:\Windows\sudo.bat
 
 ## How it works
 
-The sudo command works by launching a powershell command which closes the current cmd window and opens a new elevated one preserving the active directory in use
+The sudo command works by launching a powershell command which closes the current cmd window and opens a new elevated one preserving the active directory
 
 ## Tip
 
