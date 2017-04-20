@@ -16,9 +16,10 @@ c:\Windows\sudo.bat
 
 The sudo command works by launching a powershell command which closes the current cmd window and opens a new elevated one preserving the active directory
 
-## Tip
+## Tips
 
-The name of the command is just the name of the file, so by renaming sudo.bat to elevate.bat the cmd to type will be "elevate"
+* The name of the command is just the name of the file, so by renaming sudo.bat to elevate.bat the cmd to type will be "elevate"
+* removing the "exit" word will keep the original window open in background after opening the elevated one
 
 ## Todo
 
